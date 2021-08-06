@@ -12,7 +12,6 @@ const {
   Message,
   User
 } = require('../../models')
-// const { JWT_SECRET } = require('../../config/env.json')
 require('dotenv').config()
 
 module.exports = {
